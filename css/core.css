@@ -1,14 +1,11 @@
-@font-face{
-    font-family: 'opensans';
-    src: url('../fonts/open-sans/OpenSans-Light.ttf');
-}
+
 body, html {
 	height: 100%;
 	width: 100%;
 }
 
 body, h1, h2, h3, h4, h5, h6 {
-	font-family:  "opensans","Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-weight: 700;
 }
 
@@ -21,7 +18,7 @@ p {
 	padding-top: 50px;
 	padding-bottom: 50px;
 	color: #f8f8f8;
-	background: url(../img/bg/bg.png) no-repeat center center;
+	background: url(../img/bg/bg.jpg) no-repeat center center;
 	background-size: cover;
 	text-align: center;
 }
@@ -35,7 +32,7 @@ p {
 .intro-message > h1 {
 	margin: 0;
 	font-size: 5em;
-	text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+	
 }
 
 .intro-divider {
