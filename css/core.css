@@ -212,7 +212,7 @@ color: white;
 
 	height:400px;
 	background-color:rgba(52, 73, 94,0.4);
-	
+	margin:10px;
 	color:white;
 	text-align:center;
 }
@@ -220,7 +220,7 @@ color: white;
 .offers{
 	
 	color:white;
-	background: url(../img/bg/bg.png) no-repeat center center;
+	background: url(../img/bg/bg-services.jpg) no-repeat center center;
 
 }
 .profile{
